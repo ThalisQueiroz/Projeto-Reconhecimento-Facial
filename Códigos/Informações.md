@@ -1,9 +1,9 @@
-## Nesta pasta se encontra os códigos do projeto
+# Nesta pasta se encontra os códigos do projeto
 
 Este diretório contém o código para um sistema de destravamento de fechadura eletrônica via reconhecimento facial. O projeto combina Python e Arduino para criar uma solução 
 de controle de acesso segura e prática, onde apenas usuários cadastrados podem liberar o acesso pela fechadura.
   
-Estrutura da Pasta
+## Estrutura da Pasta
 
 -reconhecimento_facial_com_IA_python.py: Script principal em Python que realiza o reconhecimento facial e se comunica com o Arduino.
 
