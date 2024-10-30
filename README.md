@@ -1,6 +1,6 @@
 # Sistema de Acesso Biométrico Utilizando Reconhecimento Facial
 
-##Resumo
+###Resumo
 
 Este projeto apresenta um sistema inovador de controle de acesso baseado em reconhecimento facial, desenvolvido com o objetivo de oferecer uma solução segura e eficiente para ambientes residenciais e corporativos. A aplicação utiliza técnicas de inteligência artificial e visão computacional para identificar usuários autorizados, substituindo métodos tradicionais como chaves e senhas.
 
